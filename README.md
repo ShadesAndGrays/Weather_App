@@ -6,7 +6,6 @@ I followed a linkedin [article][tutorial] I stumbled accross.
 [tutorial]: https://www.linkedin.com/pulse/building-simple-weather-app-rust-beginners-guide-jenifer-rajendren-nsgpc/?trk=article-ssr-frontend-pulse_more-articles_related-content-card
 
 ### Dependencies
-
 dotenv 0.15.0
 reqwest 0.11
 serde 1.0
