@@ -37,13 +37,13 @@ and done
 ---
 
 ```
-$ cargo run
-    Finished dev [unoptimized + debuginfo] target(s) in 0.09s
+$ cargo r
+    Finished dev [unoptimized + debuginfo] target(s) in 0.10s
      Running `target/debug/weather_app`
 Enter Location: 
-America
+Abuja, NG
 ```
 
 ```
-Weather in America: 300.17°C, clear sky
+Weather in Abuja, NG: 30.08°C, overcast clouds
 ```
